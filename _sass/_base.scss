@@ -68,6 +68,10 @@ aside {
     padding: 0;
 }
 
+.no-padding-bottom {
+    padding-bottom: 0;
+}
+
 // Navigation
 
 .navbar-default {
@@ -293,6 +297,10 @@ header {
 
             .project-name {
                 font-size: 18px;
+            }
+
+            .project-content {
+                padding: 15px;
             }
         }
     }
