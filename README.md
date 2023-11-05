@@ -26,3 +26,7 @@ rbenv exec bundle install
 ```
 rbenv exec jekyll serve
 ```
+
+## Local Access
+[http://localhost:4000/](http://localhost:4000/)
+Due to Font Awesome settings.
