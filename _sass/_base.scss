@@ -178,7 +178,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url("https://res.cloudinary.com/disqdmc4r/image/upload/f_auto/v1699929231/dawnlight.jp/cnlip60krjxjgcjrmgku.png"), url("../img/header.jpg");
     background-color: rgba(black, .6);
     background-blend-mode: multiply;
     text-align: center;
