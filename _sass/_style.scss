@@ -5,3 +5,55 @@ a.logo img {
     margin-right: 5px;
     margin-top: -5px;
 }
+
+// About section
+.about-lead {
+    font-size: 1.2em;
+    font-style: italic;
+    margin-bottom: 1.2em;
+    opacity: 0.95;
+}
+
+.about-body {
+    font-size: 1em;
+    line-height: 1.9;
+    margin-bottom: 2em;
+    opacity: 0.85;
+}
+
+.about-tagline {
+    display: inline-block;
+    border-top: 1px solid rgba(255,255,255,0.4);
+    border-bottom: 1px solid rgba(255,255,255,0.4);
+    color: #fff;
+    font-size: 1.15em;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    padding: 0.75em 1.5em;
+    margin: 1em 0 2.5em;
+}
+
+.about-features {
+    margin-top: 1em;
+}
+
+.about-feature-box {
+    background: rgba(255,255,255,0.1);
+    border-radius: 6px;
+    padding: 2em 1.5em;
+    margin-bottom: 1.5em;
+    color: #fff;
+
+    i {
+        display: block;
+        margin-bottom: 0.8em;
+        opacity: 0.9;
+    }
+
+    p {
+        margin: 0;
+        font-size: 0.95em;
+        line-height: 1.7;
+        opacity: 0.9;
+    }
+}
